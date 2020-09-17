@@ -7,10 +7,12 @@ This repository contains my implementations for time series prediction task.
 ## Requirements
 
 - Python 3.6
-- PyTorch 1.4.0
-- XGBoost 1.0.2
-- Sklearn
-- Numpy
+- PyTorch 1.6.0
+- Tensorboard 1.15.0
+- XGBoost 1.2.0
+- Sklearn 0.19.1
+- Numpy 1.16.2
+- Tqdm 4.49.0
 
 ## Introduction
 
